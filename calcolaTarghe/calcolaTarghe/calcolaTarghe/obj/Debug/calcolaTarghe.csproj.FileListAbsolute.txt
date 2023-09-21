@@ -1,0 +1,8 @@
+E:\Scuola\4 superiore\Sistemi\calcolaTarghe\calcolaTarghe\bin\Debug\calcolaTarghe.exe.config
+E:\Scuola\4 superiore\Sistemi\calcolaTarghe\calcolaTarghe\bin\Debug\calcolaTarghe.exe
+E:\Scuola\4 superiore\Sistemi\calcolaTarghe\calcolaTarghe\bin\Debug\calcolaTarghe.pdb
+E:\Scuola\4 superiore\Sistemi\calcolaTarghe\calcolaTarghe\obj\Debug\calcolaTarghe.csproj.AssemblyReference.cache
+E:\Scuola\4 superiore\Sistemi\calcolaTarghe\calcolaTarghe\obj\Debug\calcolaTarghe.csproj.SuggestedBindingRedirects.cache
+E:\Scuola\4 superiore\Sistemi\calcolaTarghe\calcolaTarghe\obj\Debug\calcolaTarghe.csproj.CoreCompileInputs.cache
+E:\Scuola\4 superiore\Sistemi\calcolaTarghe\calcolaTarghe\obj\Debug\calcolaTarghe.exe
+E:\Scuola\4 superiore\Sistemi\calcolaTarghe\calcolaTarghe\obj\Debug\calcolaTarghe.pdb
