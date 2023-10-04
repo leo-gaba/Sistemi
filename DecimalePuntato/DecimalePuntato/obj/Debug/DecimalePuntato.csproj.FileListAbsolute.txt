@@ -1,0 +1,8 @@
+E:\Scuola\4 superiore\Informatica\C#\DecimalePuntato\DecimalePuntato\bin\Debug\DecimalePuntato.exe.config
+E:\Scuola\4 superiore\Informatica\C#\DecimalePuntato\DecimalePuntato\bin\Debug\DecimalePuntato.exe
+E:\Scuola\4 superiore\Informatica\C#\DecimalePuntato\DecimalePuntato\bin\Debug\DecimalePuntato.pdb
+E:\Scuola\4 superiore\Informatica\C#\DecimalePuntato\DecimalePuntato\obj\Debug\DecimalePuntato.csproj.AssemblyReference.cache
+E:\Scuola\4 superiore\Informatica\C#\DecimalePuntato\DecimalePuntato\obj\Debug\DecimalePuntato.csproj.SuggestedBindingRedirects.cache
+E:\Scuola\4 superiore\Informatica\C#\DecimalePuntato\DecimalePuntato\obj\Debug\DecimalePuntato.csproj.CoreCompileInputs.cache
+E:\Scuola\4 superiore\Informatica\C#\DecimalePuntato\DecimalePuntato\obj\Debug\DecimalePuntato.exe
+E:\Scuola\4 superiore\Informatica\C#\DecimalePuntato\DecimalePuntato\obj\Debug\DecimalePuntato.pdb
